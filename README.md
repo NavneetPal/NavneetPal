@@ -1,6 +1,6 @@
 # <center> Hi 👋 , I'm Navneet Pal </center>
 
-- 🔭 I’m currently working as a Backend Developer in Infosys.
+- 🔭 I’m currently working as Backend Developer in Infosys.
 
 <!--
 **NavneetPal/NavneetPal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
