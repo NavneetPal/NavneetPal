@@ -2,6 +2,8 @@
 
 - 🔭 I’m currently working as Backend Developer in Infosys.
 
+-  💬 Ask me about NodeJs, Spring Boot, Java, Databases and Problem Solving.
+
 - 📫 How to reach me: navneetpal8106@gmail.com
 <!--
 **NavneetPal/NavneetPal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
